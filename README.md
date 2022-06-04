@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Eric-Fleegal
+- 👀 I’m interested in games development and computer science
+- 🌱 I’m currently teaching game development at DigiPen
+- 💞️ I’m looking to collaborate on open source / public domain software components 
+- 📫 How to reach me: through GitHub 
